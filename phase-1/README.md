@@ -27,4 +27,4 @@ Every device is designed as a **closed feedback loop** — desired state out, ac
 
 ## Status
 
-**Complete** Building the first device (MQTT smart lighting) and its control loop. Code and a demo clip will be added here as it's completed.
+**Complete.** Building the first device (MQTT smart lighting) and its control loop. Code and a demo clip will be added here as it's completed.
