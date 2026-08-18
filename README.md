@@ -6,7 +6,7 @@
 
 *An integrated AI + IoT + Robotics system I'm building to develop production-level robotics-software engineering skills across the full stack.*
 
-![Phase](https://img.shields.io/badge/current_phase-3_of_6-0E9F9A)
+![Phase](https://img.shields.io/badge/current_phase-4_of_6-0E9F9A)
 ![Focus](https://img.shields.io/badge/focus-Robotics_Software_Engineering-2D6CDF)
 ![Languages](https://img.shields.io/badge/languages-C%2B%2B_·_Python-16243B)
 ![Platform](https://img.shields.io/badge/platform-Linux_·_ROS2_·_ESP32-16243B)
