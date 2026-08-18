@@ -40,9 +40,9 @@ Each phase is a self-contained body of work that builds on the last. Click into 
 | Phase | Focus | Key skills | Status |
 | --- | --- | --- | --- |
 | **[Phase 0](./phase-0)** | Foundations | Linux, C++, CMake, Git/SSH, Python | ✅ Complete |
-| **[Phase 1](./phase-1)** | IoT & Embedded | ESP32, MQTT, real-time control loops | 🔨 In progress |
-| **[Phase 2](./phase-2)** | Computer Vision | OpenCV, detection, edge inference | 📋 Planned |
-| **[Phase 3](./phase-3)** | ROS2 | Nodes, topics, services, middleware | 📋 Planned |
+| **[Phase 1](./phase-1)** | IoT & Embedded | ESP32, MQTT, real-time control loops | ✅ Completes |
+| **[Phase 2](./phase-2)** | Computer Vision | OpenCV, detection, edge inference | ✅ Complete |
+| **[Phase 3](./phase-3)** | ROS2 | Nodes, topics, services, middleware | 🔨 In progress |
 | **[Phase 4](./phase-4)** | Kinematics & Motion | Transforms, forward/inverse kinematics, control | 📋 Planned |
 | **[Phase 5](./phase-5)** | Autonomy | SLAM, navigation, sensor fusion | 📋 Planned |
 
