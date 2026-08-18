@@ -1,6 +1,6 @@
 # Phase 2 — Computer Vision
 
-![Status](https://img.shields.io/badge/status-planned-5A6B82)
+![Status](https://img.shields.io/badge/status-complete-5A6B82)
 ![Skills](https://img.shields.io/badge/skills-OpenCV_·_PyTorch_·_Edge_AI-16243B)
 
 > Give the platform sight — recognition and awareness of people, vehicles, and objects.
@@ -27,4 +27,4 @@ Perception turns the platform from something that reacts to switches into someth
 
 ## Status
 
-**Planned.** Scope defined; implementation follows Phase 1.
+**Complete.** Scope defined; implementation follows Phase 1.
