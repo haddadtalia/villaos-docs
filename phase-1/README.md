@@ -1,6 +1,6 @@
 # Phase 1 — IoT & Embedded
 
-![Status](https://img.shields.io/badge/status-in_progress-2D6CDF)
+![Status](https://img.shields.io/badge/status-complete-2D6CDF)
 ![Skills](https://img.shields.io/badge/skills-ESP32_·_MQTT_·_Python-16243B)
 
 > First connected devices and real-time control loops — the closed software-to-hardware loop the whole platform is built on.
